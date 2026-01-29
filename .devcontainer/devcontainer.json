@@ -1,0 +1,11 @@
+{
+  "name": "Laravel + React Dev",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspace",
+  "extensions": [
+    "felixfbecker.php-debug",
+    "bmewburn.vscode-intelephense-client",
+    "esbenp.prettier-vscode"
+  ]
+}
